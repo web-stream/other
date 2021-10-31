@@ -43,6 +43,17 @@ docs.pipe(transformStream).pipe(output);
 
 
 
+### Forge FaaS
+
+Forge to FaaS od Atlassiana do tworzenia rozszerzeń do Jiry czy Confluence. 
+Spoiler alert - kod JavaScript który jest tam uruchamiany również działa w sandbox'ie.
+Pzyjrzymy się na przykładzie Forge'a jak możemy stworzyć bezpieczny sandbox w V8.
+
+
+
+
+
+
 ## About Webstream
 
 +  Website about Webstreaming on github - [web-stream/www](https://github.com/web-stream/www)
