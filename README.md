@@ -9,64 +9,6 @@ We love static sites and have plugins are secure, simple and reliable.
 They withstand high traffic and require little upkeep.
 
 
-## Middleman
-
-The static site generator [Middleman](https://middlemanapp.com/) is a command-line tool that uses Ruby and Ruby Gems. It’s one of the most-used static tools for large companies. This plugin will help you manage your Contentful content
-Static site generators
-
-We love static sites and have plugins to support four of our favorites. Static sites are secure, simple and reliable. They withstand high traffic and require little upkeep.
-Middleman
-
-The static site generator Middleman is a command-line tool that uses Ruby and Ruby Gems. It’s one of the most-used static tools for large companies. This plugin will help you manage your Contentful content
-
-View on GitHub
-
-View examples
-Jekyll
-
-Jekyll is a Ruby based static site generator. It’s simple and blog-aware, a great option for small projects and personal sites. This plugin pulls content from Contentful.
-
-View on GitHub
-
-View examples
-Gatsby
-
-Gatsby is a static site generator based on React. Gatsby and Contentful work together well—you can install the Gatsby app, which lets you see updates. Gatsby also has a package that enables Contentful to be a data source for a Gatsby project.
-
-View on GitHub
-Metalsmith
-
-Metalsmith is a JavaScript based static-site generator, and this plugin fetches and renders data from Contentful.
-
-View on GitHub
-
-View examples
-Tutorials
-Automated rebuild and deployment with CircleCI and Webhooks
-
-This tutorial shows you how to setup and automatically deploy static sites using Jekyll or Middleman with CircleCI.
-Other tools
-
-While the below tools are not officially supported by our static site CMS, they can help extend the functionality of Contentful
-Roots
-
-Roots is a JavaScript based static site generator. It doesn’t have an extensive ecosystem, but it’s great if you’re using Node.js-based front-end tools. This plugin helps you manage content from Contentful.
-
-View on GitHub
-Textalk
-
-Textalk is a simple static site generator, a command-line interface (CLI) tool to generate a site from templates and data in a Contentful space.
-
-View on GitHub
-AWS Lambda
-
-Here’s an example static site using Amazon web services (AWS) Lambda.
-
-
-
-
-
-
 [Static site generators | Contentful](https://www.contentful.com/developers/docs/tools/staticsitegenerators/)
 
 ## Middleman
@@ -76,29 +18,6 @@ The static site generator [Middleman](https://middlemanapp.com/) is a command-li
 [View on GitHub](https://github.com/contentful/contentful_middleman)
 
 [View examples](https://github.com/contentful/contentful_middleman_examples)
-
-## Jekyll
-
-[Jekyll](https://jekyllrb.com/) is a Ruby based static site generator. It’s simple and blog-aware, a great option for small projects and personal sites. This plugin pulls content from Contentful.
-
-[View on GitHub](https://github.com/contentful/jekyll-contentful-data-import)
-
-[View examples](https://github.com/contentful/contentful_jekyll_examples)
-
-## Gatsby
-
-[Gatsby](https://www.gatsbyjs.org/) is a static site generator based on React. Gatsby and Contentful work together well—you can install the Gatsby app, which lets you see updates. Gatsby also has a package that enables Contentful to be a data source for a Gatsby project.
-
-[View on GitHub](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-contentful)
-
-## Metalsmith
-
-[Metalsmith](http://www.metalsmith.io/) is a JavaScript based static-site generator, and this plugin fetches and renders data from Contentful.
-
-[View on GitHub](https://github.com/contentful-labs/contentful-metalsmith)
-
-[View examples](https://github.com/contentful-labs/contentful-metalsmith-example)
-
 
 
 
