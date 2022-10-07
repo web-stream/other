@@ -1,0 +1,16 @@
+./DOCS/MENU.md
+./DOCS/ABOUT.md
+./PROJECT/ASCIIFlow.md
+./PROJECT/AWSLambda.md
+./PROJECT/Gatsby.md
+./PROJECT/Highlandjs.md
+./PROJECT/Jekyll.md
+./PROJECT/Metalsmith.md
+./PROJECT/Middleman.md
+./PROJECT/Modellution.md
+./PROJECT/Rehydration.md
+./PROJECT/Roots.md
+./PROJECT/Textalk.md
+./PROJECT/TEXTIK.md
+./DOCS/KEYWORDS.md
+./DOCS/FOOT.md
